@@ -17,6 +17,7 @@ a:hover {
 }
 
 .avatar {
+   background-color: #ffffff;
    width:40%;
    height:auto;
    border:1px solid #7A7A7A;
