@@ -1,4 +1,3 @@
 ## Live Project: https://ardaltunel.github.io/discord-bots-site/
 
-![image](https://github.com/ardaltunel/discord-bots-site/assets/35379428/1c04ff01-9194-4354-aacb-c0ea673a77ea)
-
+![image](https://github.com/ardaltunel/discord-bots-site/assets/35379428/236ae39a-c412-44e9-8d8c-e7c0f733c274)
