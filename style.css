@@ -60,6 +60,15 @@ hr {
    border-radius:2px;
 }
 
+.row-ortalama {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: row;
+}
+
 @media (max-width: 990px) {
    h1 {
       font-weight: 500;
